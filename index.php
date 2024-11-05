@@ -1,3 +1,4 @@
 <?php
 
-echo "Hello World!SV41_SuzukiMa";
+echo "Hello World!";
+echo "SV41";
